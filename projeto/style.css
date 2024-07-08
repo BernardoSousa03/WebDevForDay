@@ -1,0 +1,228 @@
+/* ----- ----- ----- NÃO MEXER ----- ----- ----- */
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    background-color: #f0f2f5;
+    color: #333;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 600;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+.half-width {
+    box-sizing: border-box;
+}
+
+.half-width img {
+    border-radius: 25px;
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.person {
+    margin: 0 auto;
+}
+
+.person img {
+    border-radius: 50%;
+}
+
+.botao {
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 50px;
+    transition: background 0.3s ease;
+    display: block;
+    margin: 0 auto;
+}
+
+.top-banner,
+.half-donut,
+.exp {
+    padding: 50px 0;
+}
+
+.exp-item {
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgb(255, 0, 0);
+    margin: 35px;
+}
+
+.stats {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.stats th,
+.stats td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+#identidade {
+    font-weight: 700;
+}
+
+/* ----- ----- ----- NÃO MEXER ----- ----- ----- */
+
+h1 {
+    /* Adiciona:
+    - tamanho de letra com 50px 
+    */
+}
+
+h2 {
+    /* Adiciona:
+    - tamanho de letra com 30px 
+    */
+}
+
+h3 {
+    /* Adiciona:
+    - tamanho de letra com 25px 
+    */
+}
+
+.blue {
+    /* Adiciona:
+    - tamanho de letra com 25px 
+    - cor da letra azul 
+    */
+}
+
+.half-width {
+    /* Adiciona:
+    - largura de 45%
+    - padding de 20px 
+    */
+}
+
+.half-width img {
+    /* Adiciona:
+    - largura de 100% 
+    */
+}
+
+.equipa-text {
+    /* Adiciona:
+    - cor da letra laranja
+    - tamanho da letra com 70px
+    - texto centralizado 
+    */
+}
+
+.sub-line {
+    /* Adiciona:
+    - cor da letra vermelha
+    - tamanho da letra com 30px 
+    */
+}
+
+.person {
+    /* Adiciona:
+    - padding no topo de 35px
+    - largura de 50%
+    - texto centralizado 
+    */
+}
+
+.person img {
+    /* Adiciona:
+    - largura de 90% 
+    */
+}
+
+.botao {
+    /* Adiciona:
+    - cor do texto branca
+    - cor do background linear-gradient
+    - largura de 25%
+    - texto centralizado
+     */
+}
+
+.botao:hover {
+    /* Adiciona:
+    - cor do background linear-gradient
+     */
+}
+
+.top-banner {
+    /* Adiciona:
+    - cor do background linear-gradient
+     */
+}
+
+.half-donut {
+    /* Adiciona:
+    - cor do background linear-gradient
+     */
+}
+
+.exp {
+    /* Adiciona:
+    - cor do background linear-gradient
+     */
+}
+
+.exp-item {
+    /* Adiciona:
+    - largura de 40%
+    - padding de 20px
+    - cor de fundo amarela
+    - texto centralizado
+     */
+}
+
+.stats {
+    /* Adiciona:
+    - largura de 75%
+    - texto centralizado
+     */
+}
+
+footer {
+    /* Adiciona:
+    - cor de fundo preta
+    - texto centralizado
+    - padding de 20px
+    - cor da letra branca
+     */
+}
+
+footer p {
+    /* Adiciona:
+    - margem de 0
+     */
+}
+
+#identidade {
+    /* Adiciona:
+    - cor da letra vermelha
+    - tamanho da letra com 50px
+     */
+}
