@@ -1,20 +1,17 @@
-div {
+body {
     /* 
-        Colocar aqui a borda à volta da imagem
-    */
-    /* 
-        Colocar aqui a margem
+        Colocar aqui a cor da página
     */
 }
 
-img {
+h1 {
     /* 
-        Colocar aqui o tamanho da imagem
+        Colocar aqui a cor do título
     */
+}
+
+p {
     /* 
-        Colocar aqui a border
-    */
-    /* 
-        Colocar aqui o padding
+        Colocar aqui o tamanho do parágrafo
     */
 }
